@@ -41,8 +41,8 @@ Reported 26 bugs via Jira:
 
 📚 What I Learned: 
 The most valuable lessons I took away from this experience: 
--Improved test case writing through peer feedback and best practices.
--Gained hands-on experience with BDD and Gherkin syntax.
--Learned to test Zapier integrations and troubleshoot syncing issues.
--Practiced heuristic evaluation to identify UI/UX problems.
--Built confidence working in an Agile environment with sprints, stand-ups, and team collaboration.
+Improved test case writing through peer feedback and best practices.
+Gained hands-on experience with BDD and Gherkin syntax.
+Learned to test Zapier integrations and troubleshoot syncing issues.
+Practiced heuristic evaluation to identify UI/UX problems.
+Built confidence working in an Agile environment with sprints, stand-ups, and team collaboration.
